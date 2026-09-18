@@ -19,3 +19,5 @@
 
 # search 추가
 - search.md추가
+
+# footer 재추가
