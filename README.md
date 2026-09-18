@@ -16,3 +16,6 @@
 
 # sidebar 추가
 - sidebar.md 추가
+
+# search 추가
+- search.md추가
