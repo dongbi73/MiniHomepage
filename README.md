@@ -10,3 +10,6 @@
 - cart.md 추가
 
 # 내비게이션 추가
+
+# footer 추가
+- footer.md 추가
